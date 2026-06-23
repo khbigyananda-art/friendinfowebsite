@@ -30,6 +30,12 @@ const people = {
         height: "4'5\"",
         gender: "Mard ",
         hobby: "thusna"
+    },
+    "priya": {
+        fullname: "Priya Dhulai",
+        height: "4'5\"",
+        gender: "Mard ",
+        hobby: "thusna"
     }
 };
 
