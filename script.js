@@ -1,8 +1,8 @@
 const people = {
 
-    "bigyananda": {
-        fullname: "Bigyananda kh",
-        height: "5'9\"",
+    "bigya": {
+        fullname: "Bigya kh",
+        height: "5'10\"",
         gender: "Sigma Male",
         hobby: "Football CR7 SIUUUUUUUUU😈"
     },
