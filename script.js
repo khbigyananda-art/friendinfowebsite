@@ -31,11 +31,11 @@ const people = {
         gender: "Mard ",
         hobby: "thusna"
     },
-    "priya": {
-        fullname: "Priya Dhulai",
-        height: "4'5\"",
-        gender: "Mard ",
-        hobby: "thusna"
+    "tezza": {
+        fullname: "Cutiepie",
+        height:"5'4\"",
+        gender:"Unknown",
+        hobby: "Fake her study and just talking to Bigya😂😆🤣"
     }
 };
 
